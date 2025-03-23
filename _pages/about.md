@@ -34,7 +34,7 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently, I am working as a **Graduate Research Assistant** at the Boston University Global Development Center working on creating accessible and comprehensive open knowledge tools for policymakers, reporters, researchers, civil society, students and others to explore and draw insights via the Center's D.A.T.A. initiative. Additionally, I am currently a Teaching Assistant for Intermediate Macroeconomics. There, I focused on these topics: determination of aggregate income and employment, analysis of fiscal and monetary policy, inflation and income policy, problems of the open economy. 
+Currently, I am working as a **Graduate Research Assistant** at the Boston University Global Development Center working on creating accessible and comprehensive open knowledge tools for policymakers, reporters, researchers, civil society, students and others to explore and draw insights via the Center's D.A.T.A. initiative. Additionally, I am currently a **Teaching Assistant** for Intermediate Macroeconomics. There, I focused on these topics: determination of aggregate income and employment, analysis of fiscal and monetary policy, inflation and income policy, problems of the open economy. 
 
 ## 📚 Teaching and Community Contributions
 
