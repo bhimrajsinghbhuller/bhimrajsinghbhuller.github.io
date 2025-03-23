@@ -38,7 +38,7 @@ Currently, I am working as a **Graduate Research Assistant** at the Boston Unive
 
 ## 📚 Teaching and Community Contributions
 
-To further contribute to the Economics community, I have a [YouTube](https://www.youtube.com/@econoinsight)and [Medium](https://medium.com/) channel where I publish educational Economics content.
+To further contribute to the Economics community, I have a [YouTube](https://www.youtube.com/@econoinsight) and [Medium](https://medium.com/) channel where I publish educational Economics content.
 
 
 
