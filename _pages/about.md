@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Bhimraj!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm an undergraduate junior and master's student at Boston University.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
 
@@ -34,12 +34,11 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+Currently, I am working as a **Graduate Research Assistant** at the Boston University Global Development Center working on creating accessible and comprehensive open knowledge tools for policymakers, reporters, researchers, civil society, students and others to explore and draw insights via the Center's D.A.T.A. initiative. Additionally, I am currently a Teaching Assistant for Intermediate Macroeconomics. There, I focused on these topics: determination of aggregate income and employment, analysis of fiscal and monetary policy, inflation and income policy, problems of the open economy. 
 
 ## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+
+To further contribute to the Economics community, I have a [YouTube](https://www.youtube.com/@econoinsight)and [Medium](https://medium.com/) channel where I publish educational Economics content.
 
 
 
